@@ -11,3 +11,8 @@ Run with VSCode Task:
 ```
 CTRL+SHIFT+P -> Run Task -> run-ocaml-project
 ```
+
+Tasks:
+- run-ocaml-project
+- build-ocaml-project
+- format-ocaml-project
